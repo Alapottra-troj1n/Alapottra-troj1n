@@ -2,7 +2,7 @@
 ![profile design](https://i.ibb.co/4dvbnd6/alapottra.png)
 
 ## Comfortable with :
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,nextjs,vue,nuxtjs,redux,firebase,express,mongodb,tailwind)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,nextjs,vue,nuxtjs,redux,firebase,express,mongodb,tailwind,sass)](https://skills.thijs.gg)
 
 ## :chart_with_upwards_trend: Current Stats
 
