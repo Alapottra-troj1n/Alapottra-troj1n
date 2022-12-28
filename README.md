@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/alapottra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alapottra" height="30" width="40" /></a>
 </span>
 
-## :computer: Technologies that I know
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,nextjs,vue,nuxtjs,redux,firebase,mongodb,tailwind)](https://skills.thijs.gg)
+## :computer: Comfortable with
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,nextjs,vue,nuxtjs,redux,firebase,express,mongodb,tailwind)](https://skills.thijs.gg)
 
 
