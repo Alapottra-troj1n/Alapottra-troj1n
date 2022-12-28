@@ -7,6 +7,6 @@
 </span>
 
 ## :computer: Technologies that I know
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,nextjs,vue,nuxtjs,redux,firebase,mongodb,framermotion,tailwindcss)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,nextjs,vue,nuxtjs,redux,firebase,mongodb,tailwind)](https://skills.thijs.gg)
 
 
