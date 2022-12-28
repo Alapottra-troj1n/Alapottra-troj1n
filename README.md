@@ -7,6 +7,6 @@
 </span>
 
 ## :computer: Technologies that I know
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,nextjs)](https://skills.thijs.gg)
 
 
