@@ -4,7 +4,7 @@
 ## Comfortable with :
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,nextjs,vue,nuxtjs,redux,firebase,express,mongodb,tailwind,sass)](https://skills.thijs.gg)
 
-## :chart_with_upwards_trend: Current Stats
+## :chart_with_upwards_trend: Current stats
 
 <br />
 <p align="center">
