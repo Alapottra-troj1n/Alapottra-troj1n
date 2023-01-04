@@ -15,5 +15,6 @@
 <span align="left">
 <a href="https://www.linkedin.com/in/alapottra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alapottra" height="30" width="40" /></a>
 </span>
+<span align="right>https://api.daily.dev/devcards/8e2d7b27e46846aba254e4b06c6f38e6.png?r=q71</span>
 
 
