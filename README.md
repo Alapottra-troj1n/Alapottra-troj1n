@@ -1,5 +1,5 @@
 
-![profile design](https://i.ibb.co/4dvbnd6/alapottra.png)
+![profile design](https://i.ibb.co/0rVGx4Y/facebook.jpg)
 
 ## Comfortable with :
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,nextjs,vue,nuxtjs,redux,firebase,express,mongodb,tailwind,sass)](https://skills.thijs.gg)
