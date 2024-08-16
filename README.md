@@ -2,7 +2,7 @@
 ![profile design](https://i.ibb.co/0rVGx4Y/facebook.jpg)
 
 ## Comfortable with :
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,vue,nuxtjs,redux,firebase,express,mongodb,tailwind,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,vue,nuxtjs,redux,firebase,express,mongodb,postgres,sql,tailwind,sass,aws)](https://skillicons.dev)
 
 ## Current statistics :
 
