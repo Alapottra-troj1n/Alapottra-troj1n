@@ -1,19 +1,15 @@
 
 ![profile design](https://i.ibb.co/0rVGx4Y/facebook.jpg)
 
-## Comfortable with :
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,redux,tailwind,firebase,express,mongodb,postgres,aws)](https://skillicons.dev)
-
 ## Current statistics :
 
 <br />
 
 <div align="center">
 
-![Stats](https://gh-widget-7q6w.vercel.app/api/widget?user=alapottra-troj1n&theme=dark)
+![Stats](https://gh-widget-7q6w.vercel.app/api/widget?user=Alapottra-troj1n&theme=dark)
 
 </div>
-
 
 
 ## Connect with me :
